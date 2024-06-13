@@ -22,7 +22,7 @@ namespace contentmanagerproject
         new Tuple<string, string>("misk", "0788654345")
     };
             public static List<Tuple<string, string>> work = new List<Tuple<string, string>>(){
-        new Tuple<string, string>("reem", "0756355078")
+        new Tuple<string, string>("reem", "0756355058")
     };
 
             static void Main(string[] args)
